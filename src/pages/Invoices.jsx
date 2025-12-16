@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "../styles/invoices.css";
+import "../styles/Invoices.css";
 function Invoices({
   customers,
   products,
